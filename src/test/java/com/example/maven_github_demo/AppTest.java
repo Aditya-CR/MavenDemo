@@ -12,7 +12,7 @@ public class AppTest {
 
 	@Test
     void testTotal() {
-        assertEquals(225,
+        assertEquals(220005,
             GradeCalculator.calculateTotal(75, 68, 82));
     }
 
